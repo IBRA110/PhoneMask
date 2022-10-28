@@ -1,3 +1,3 @@
 mask for Russian numbers
 
-Just use in in your form
+Just use it in your form
